@@ -4,9 +4,14 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
+    <EnablePreviewFeatures>true</EnablePreviewFeatures>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Cff.Effect" Version="0.1.0" />
+    <PackageReference Include="Cff.Effect.Json" Version="0.1.0" />
+    <PackageReference Include="Cff.Effect.Logging" Version="0.1.0" />
+    <PackageReference Include="Cff.Effect.Sha" Version="0.1.0" />
     <PackageReference Include="LanguageExt.Core" Version="4.2.2" />
     <PackageReference Include="LanguageExt.Sys" Version="4.2.2" />
   </ItemGroup>
