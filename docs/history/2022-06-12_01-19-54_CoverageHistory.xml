@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-06-12_01-19-54" tag="4_2481869554">
+  <assembly name="Sample">
+    <class name="Program" coveredlines="0" coverablelines="13" totallines="27" coveredbranches="0" totalbranches="0" coveredcodeelements="0" totalcodeelements="1" />
+    <class name="RT" coveredlines="0" coverablelines="1" totallines="27" coveredbranches="0" totalbranches="0" coveredcodeelements="0" totalcodeelements="1" />
+  </assembly>
+</coverage>
