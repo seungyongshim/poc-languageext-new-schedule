@@ -13,7 +13,7 @@
     <PackageReference Include="Cff.Effect.Logging" Version="0.1.0" />
     <PackageReference Include="Cff.Effect.Sha" Version="0.1.0" />
     <PackageReference Include="LanguageExt.Core" Version="4.2.2" />
-    <PackageReference Include="LanguageExt.Sys" Version="4.2.8" />
+    <PackageReference Include="LanguageExt.Sys" Version="4.2.9" />
   </ItemGroup>
 
 </Project>
